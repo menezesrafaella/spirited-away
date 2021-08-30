@@ -1,0 +1,19 @@
+.list__menu{
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    list-style: none;
+}
+
+.list__item{
+    padding: 20px;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 1.1em;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
