@@ -57,5 +57,19 @@ ul {
     display: flex;
     align-items: center;
     /* justify-content: space-around; */
-    margin: 0 200px 0 200px;
+    margin: 0 13em 0 13em;
+}
+
+.button__content{
+    text-transform: uppercase;
+    background-color: #F2B6BB;
+    border-radius: 15px;
+    border-style: none;
+    padding: 15px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: 4em;
+    letter-spacing: .1em;
 }
