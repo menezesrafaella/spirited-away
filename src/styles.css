@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    /* background-image: linear-gradient(
+        to right,
+        #340f88,
+        #5646b3,
+        #6831af,
+        #9461b6
+    ); */
+
+    background-color: #14293F;
+    font-family: "Sawarabi Mincho", sans-serif;
+}
